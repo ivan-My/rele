@@ -1,4 +1,6 @@
 {
+    "requireCleanWorkingDir": true,
+    "requireBranch": "master",
     "github": {
         "release": true
     },
