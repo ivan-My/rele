@@ -3,7 +3,7 @@
         "release": false
     },
     "git": {
-
+        "commitMessage": "release: v${version}",
         "changelog": "npx auto-changelog --stdout --commit-limit false -u --template https://raw.githubusercontent.com/release-it/release-it/main/templates/changelog-compact.hbs"
 
     },
@@ -11,7 +11,8 @@
         "publish": false
     },
     "hooks": {
-        "after:bump": "echo 更新版本成功"
+
+        "after:bump": "npx auto-changelog -p"
     },
     "plugins": {
         "@release-it/conventional-changelog": {
