@@ -1,5 +1,12 @@
 
 
+# [1.1.0](https://github.com/ivan-My/rele/compare/1.0.7...1.1.0) (2023-05-28)
+
+
+### Features
+
+* 8888 ([de76391](https://github.com/ivan-My/rele/commit/de76391d5297cbad503ef9b847af93fae7c88e5e))
+
 ## [1.0.7](https://github.com/ivan-My/rele/compare/1.0.6...1.0.7) (2023-05-28)
 
 ## [1.0.6](https://github.com/ivan-My/rele/compare/1.0.5...1.0.6) (2023-05-28)
