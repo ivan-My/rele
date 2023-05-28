@@ -20,6 +20,7 @@
   "homepage": "https://github.com/ivan-My/rele#readme",
   "devDependencies": {
     "@release-it/conventional-changelog": "^5.1.1",
+    "auto-changelog": "^2.4.0",
     "release-it": "^15.10.3"
   }
 }
