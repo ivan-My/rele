@@ -1,4 +1,30 @@
+# Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 1.4.0 (2023-05-29)
+
+
+### Features
+
+* 1111 ([a679cd9](https://github.com/ivan-My/rele/commit/a679cd9c2fc3e1d9c117207006af623d0936698e))
+* 2222 ([f2308f3](https://github.com/ivan-My/rele/commit/f2308f3aa5579680c5ff0244d8c18e3cd9a7b6bb))
+* 333 ([0b2af90](https://github.com/ivan-My/rele/commit/0b2af90ec0aa94ef8efb2899d531e15cecc98089))
+* 666 ([1266c03](https://github.com/ivan-My/rele/commit/1266c034a5dd9a07af8373f69f5bac2c0b06c9e9))
+* 7777 ([49a20c3](https://github.com/ivan-My/rele/commit/49a20c387b2f72142cffae3572418c00d057918a))
+* 8888 ([de76391](https://github.com/ivan-My/rele/commit/de76391d5297cbad503ef9b847af93fae7c88e5e))
+* 9999 ([acb9731](https://github.com/ivan-My/rele/commit/acb9731ef82f3e416302a9b8f4bab3135c573932))
+* test relea ([47faf42](https://github.com/ivan-My/rele/commit/47faf427e6ff06e1f2edaf36bd407ad58d999800))
+* 优化了re lerele ([d260574](https://github.com/ivan-My/rele/commit/d260574eba9a545c57c6bcc54746c461283b584d))
+
+
+### Bug Fixes
+
+* 0000 ([961b1e8](https://github.com/ivan-My/rele/commit/961b1e89d117a8346e746a60abeab25bfc4a2753))
+* 111 ([a6f09d5](https://github.com/ivan-My/rele/commit/a6f09d5621123fd189000ac95b7a53ca02dc913f))
+* 1111 ([e42a01e](https://github.com/ivan-My/rele/commit/e42a01ee551b1717f58092f11af1ecf68e9227ea))
+* 222 ([8f45ffa](https://github.com/ivan-My/rele/commit/8f45ffa5b0bb98301252b7890608e0c08904dc65))
+* 2222 ([6b42ef2](https://github.com/ivan-My/rele/commit/6b42ef2a331e8b1122a9eece0be624a05c8e6469))
 
 ## [1.3.11](https://github.com/ivan-My/rele/compare/1.3.10...1.3.11) (2023-05-29)
 
