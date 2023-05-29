@@ -1,5 +1,12 @@
 
 
+## [1.3.10](https://github.com/ivan-My/rele/compare/1.3.9...1.3.10) (2023-05-29)
+
+
+### Bug Fixes
+
+* 1111 ([e42a01e](https://github.com/ivan-My/rele/commit/e42a01ee551b1717f58092f11af1ecf68e9227ea))
+
 ## [1.3.9](https://github.com/ivan-My/rele/compare/1.3.8...1.3.9) (2023-05-29)
 
 
