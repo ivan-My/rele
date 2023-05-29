@@ -32,7 +32,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
   # git push origin refs/tags/v"$VERSION"
   git tag zarm@"$VERSION"
   git push origin zarm@"$VERSION"
-  git push origin master
+  git push origin test
 
   if [[ $VERSION =~ "alpha" ]]
   then
