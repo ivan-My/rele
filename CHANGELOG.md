@@ -1,5 +1,7 @@
 
 
+## [1.3.7](https://github.com/ivan-My/rele/compare/1.3.6...1.3.7) (2023-05-29)
+
 ## [1.3.6](https://github.com/ivan-My/rele/compare/1.3.5...1.3.6) (2023-05-29)
 
 
