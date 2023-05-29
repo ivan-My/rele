@@ -24,6 +24,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 
 
 
+
   # commit
   git add -A
   git commit -m "build: build $VERSION"
