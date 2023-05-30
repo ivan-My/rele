@@ -1,9 +1,19 @@
-const fs = require('fs')
-const { execSync } = require('child_process')
-const inquirer = require('inquirer')
+import path from 'path';
+import fs from 'fs';
+import util from 'util';
+import inquirer from 'inquirer';
+
+import semverInc from 'semver/functions/inc';
+
+const chalk = require('chalk')
+
+const { execSync } = child_process;
+const exec = util.promisify(child_process.exec);
+
 const package = require('../package.json')
 const { version } = package
-const semverInc = require('semver/functions/inc')
+
+
 
 const getNextVersion = (currentVersion) => {
         return {
@@ -85,7 +95,8 @@ function generateReleaseNotes() {
 }
 
 const nextVersion = getNextVersion(version)
-    //checkWorkingDirectoryStatus()
+checkWorkingDirectoryStatus()
+return
 inquirer
     .prompt([{
         type: 'list',

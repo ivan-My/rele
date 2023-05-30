@@ -1,10 +1,11 @@
 {
-    "requireBranch": "master",
+
     "github": {
         "release": true
     },
     "git": {
-        "commitMessage": "release: v${version}"
+        "commitMessage": "release: v${version}",
+        "requireBranch": "master"
     },
     "npm": {
         "publish": true
