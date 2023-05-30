@@ -5,7 +5,7 @@
     },
     "git": {
         "commitMessage": "release: v${version}",
-        "requireBranch": "master"
+        "requireBranch": "test"
     },
     "npm": {
         "publish": true
