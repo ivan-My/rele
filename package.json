@@ -1,33 +1,33 @@
 {
-  "name": "rele-my",
-  "version": "1.4.3",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "git-cz",
-    "release": "release-it"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ivan-My/rele.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ivan-My/rele/issues"
-  },
-  "homepage": "https://github.com/ivan-My/rele#readme",
-  "devDependencies": {
-    "@release-it/conventional-changelog": "^5.1.1",
-    "auto-changelog": "^2.4.0",
-    "chalk": "^5.2.0",
-    "inquirer": "^8.2.5",
-    "release-it": "^15.10.3",
-    "standard-version": "^9.5.0"
-  },
-  "dependencies": {
-    "ashe-design": "^1.1.4"
-  }
+    "name": "rele-my",
+    "version": "1.4.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "commit": "git-cz",
+        "release": "release-it"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ivan-My/rele.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ivan-My/rele/issues"
+    },
+    "homepage": "https://github.com/ivan-My/rele#readme",
+    "devDependencies": {
+        "@release-it/conventional-changelog": "^5.1.1",
+        "auto-changelog": "^2.4.0",
+        "chalk": "^5.2.0",
+        "inquirer": "^8.2.5",
+        "release-it": "^15.10.3",
+        "standard-version": "^9.5.0"
+    },
+    "dependencies": {
+        "ashe-design": "^1.1.4"
+    }
 }

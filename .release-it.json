@@ -6,7 +6,7 @@
     "git": {
         "commitMessage": "release: v${version}",
         "requireBranch": "test",
-        "requireCommits": true
+        "requireCommits": false
     },
     "npm": {
         "publish": true
